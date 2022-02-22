@@ -12,3 +12,5 @@ Alguns pontos interessantes sobre o tópico:
 - Utilização de get;
 - Utilização de constructor;
 - Utilização de Static;
+
+

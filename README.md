@@ -11,6 +11,6 @@ Alguns pontos interessantes sobre o tópico:
 - Criar o package.json usando npm init e atribuindo type:modules;
 - Utilização de get;
 - Utilização de constructor; 
-- Utilização de Static;
+- Utilização de Static; 
 
 

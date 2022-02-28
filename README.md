@@ -10,7 +10,7 @@ Alguns pontos interessantes sobre o tópico:
 - Convenção de atributos privados usando '_';
 - Criar o package.json usando npm init e atribuindo type:modules;
 - Utilização de get;
-- Utilização de constructor; 
+- Utilização de constructor;  
 - Utilização de Static; 
 
 
